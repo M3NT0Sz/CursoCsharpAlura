@@ -1,4 +1,17 @@
-﻿// Screen Sound
+﻿// Episodio ep1 = new(1, "Técnicas de facilitação", 45);
+// ep1.AdicionarConvidados("Alice");
+// ep1.AdicionarConvidados("Bob");
+// ep1.AdicionarConvidados("Charlie");
+
+// Episodio ep2 = new(2, "Entrevista com especialista", 60);
+// ep2.AdicionarConvidados("David");
+// ep2.AdicionarConvidados("Eva");
+
+// Podcast podcast = new("Tech Talks", "John Doe");
+// podcast.AdicionarEpisodio(ep1);
+// podcast.AdicionarEpisodio(ep2);
+// podcast.ExibirDetalhes();
+// Screen Sound
 string mensagemDeBoasVindas = "Boas Vindas ao Screen Sound!";
 
 // List<string> listaDasBandas = new List<string> {"Linkin Park", "Imagine Dragons", "Coldplay"};
